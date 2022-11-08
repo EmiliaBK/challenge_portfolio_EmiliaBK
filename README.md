@@ -18,3 +18,10 @@ Hej! Nazywam się Emilia i zdecydowałam się dołączyć do Dare IT challange b
 * Angielska wersja językowa posiada elementu w języku polskim 'łączy nas piłka' '90 minut' 
 * Nie ma możliwości dodania gracza z poziomu zakładki 'Gracz'
 * Niepoprawny format drukowania raportu
+
+<h1> TASK 2 </h1>
+<h3>SUBTASK 1 </h3>
+
+<h3>SUBTASK 2 </h3>
+
+<h3>SUBTASK 3 </h3>
