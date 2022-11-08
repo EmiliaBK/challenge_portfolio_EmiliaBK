@@ -7,6 +7,7 @@
 Hej! Nazywam się Emilia i zdecydowałam się dołączyć do Dare IT challange by nauczyć się czegoś nowego.
 
 <h3>SUBTASK 4 Musze dokonczyc</h3>
+
 ◾ Panel zarządzania graczami, meczami i do tworzenia raportów.
 
 ◾ Dodawanie i edycja graczy.
@@ -16,6 +17,7 @@ Hej! Nazywam się Emilia i zdecydowałam się dołączyć do Dare IT challange b
 ◾ Dodawanie, edycja, drukowanie i ściąganie raportw. 
 
 ### Spostrzeżenia:
+
 ◾ Aplikacja jest nieintuicyjna, Brak dostępu do wszystkich funkcjonalności z home page. <-Wszystkie funkcje wywalić do homepage i dodać legende lub zmienić interfejs
 
 ◾ Linki pomocnicze powinny być uzupełnione o brakujące funkcje (niedostępne na stronie głównej np mecze)
