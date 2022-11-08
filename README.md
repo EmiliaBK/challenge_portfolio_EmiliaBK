@@ -32,7 +32,7 @@ Hej! Nazywam się Emilia i zdecydowałam się dołączyć do Dare IT challange b
 
 <h1> TASK 2 </h1>
 <h3>SUBTASK 1 </h3>
-
+<a href="https://docs.google.com/spreadsheets/d/10sZIEqBbD9FMW0kAHHEYca4jy4oobm9M/edit?usp=share_link&ouid=106398356921910727150&rtpof=true&sd=true" rel="nofollow">Przypadki testowe</a>
 <h3>SUBTASK 2 </h3>
 
 <h3>SUBTASK 3 </h3>
