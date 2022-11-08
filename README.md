@@ -8,6 +8,7 @@ Hej! Nazywam się Emilia i zdecydowałam się dołączyć do Dare IT challange b
 
 <h3>SUBTASK 4 Musze dokonczyc</h3>
 ◾ Panel zarządzania graczami, meczami i do tworzenia raportów.
+
 ◾ Dodawanie i edycja graczy.
 ◾ Dodawanie, edycja i rozgrywanie meczów. <- Rozgrywanie meczów nieintuicyjne, użytkownik nie będzie wiedzał jak się odnaleść, przydałaby sie lista wykonanych juz ruchów.
 ◾ Dodawanie, edycja, drukowanie i ściąganie raportw. 
